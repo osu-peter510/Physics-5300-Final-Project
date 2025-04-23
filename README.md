@@ -5,6 +5,7 @@
 ### 1. Physics Model Setup
 
 We study heat conduction on a one-dimensional rod of length \(L\), governed by the diffusion equation
+
 \[
 \frac{\partial u}{\partial t}
 =\alpha\,\frac{\partial^2 u}{\partial x^2},
